@@ -18,7 +18,7 @@ Feel free to explore my YouTube channel for tech-related content and don't hesit
       <a href="https://charbelm.com">
          <img alt="website" title="View My Website" src="https://custom-icon-badges.demolab.com/badge/-WEBSITE-purple?style=for-the-badge&logo=globe&logoColor=white"/></a> 
       <a href="https://www.linkedin.com/in/charbel-mhanna-32559395/">
-        <img alt="linkedin" title="Linkedin profile" src="https://www.svgrepo.com/show/449804/linkedin.svg">
+        <img alt="linkedin" title="Linkedin profile" src="https://www.svgrepo.com/show/449804/linkedin.svg" width="20px">
       <a href="https://www.youtube.com/@chabytech?sub_confirmation=1">
          <img alt="YouTube" title="View My YouTube" src="https://custom-icon-badges.demolab.com/badge/-YouTube-E61B23?style=for-the-badge&logo=video&logoColor=white"/></a>
    </p>
