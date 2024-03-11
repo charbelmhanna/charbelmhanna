@@ -20,7 +20,7 @@ Feel free to explore my YouTube channel for tech-related content and don't hesit
       <a href="https://www.linkedin.com/in/charbel-mhanna-32559395/">
         <img alt="linkedin" title="Linkedin profile" src="https://www.svgrepo.com/show/449804/linkedin.svg" width="25px">
       <a href="https://www.youtube.com/@chabytech?sub_confirmation=1">
-         <img alt="YouTube" title="View My YouTube" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-icon-png-image_6315995.png" width="50px"/></a>
+         <img alt="YouTube" title="View My YouTube" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-youtube-social-media-icon-png-image_6315995.png" width="45px"/></a>
    </p>
 
 ---
