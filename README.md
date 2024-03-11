@@ -38,7 +38,7 @@ Feel free to explore my YouTube channel for tech-related content and don't hesit
 ### Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Unlocking the Power of Quick & Easy App Deployment on VPS with GitHub Action](https://ytcards.demolab.com/?id=KO9oMXkz0QA&title=Homer+the+best+homelab+dashboard&lang=en&timestamp=1693166572&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=481 "Homer the best homelab dashboard")]([https://www.youtube.com/watch?v=KO9oMXkz0QA](https://youtu.be/V2YYhGn3MGo?si=CTZarHTsxRUtkEsj))
+[![Unlocking the Power of Quick & Easy App Deployment on VPS with GitHub Action][(https://ytcards.demolab.com/?id=KO9oMXkz0QA&title=Homer+the+best+homelab+dashboard&lang=en&timestamp=1693166572&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=481 "Homer the best homelab dashboard")]([https://www.youtube.com/watch?v=KO9oMXkz0QA](https://i.ytimg.com/vi/-DKctD8_RGc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWoLITtm1i3QTqF48f7qlYuZP8mg)](https://youtu.be/V2YYhGn3MGo?si=CTZarHTsxRUtkEsj))
 
 <!-- END YOUTUBE-CARDS -->
 
