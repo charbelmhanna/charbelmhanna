@@ -1,8 +1,18 @@
-# Timothy Smith
+# Charbel Mhanna
 
-**`Head of Infrastructure - College Graduate - YouTuber`**
+# Welcome to My GitHub Profile! 👋
 
-I'm a San Antonio-based IT Professional passionate about technology. I hold an Associates Degree in Computer Information Systems from SWTJC and have honed my skills at places like AIMG and Kasm Technologies, specializing in virtualization, networking, Python coding, and web development. With AWS certifications and a commitment to staying current, I'm equipped to excel in any IT role. I also run the "[HomelabTim](https://youtube.com/@HomelabTim)" YouTube channel, educating viewers on IT topics.
+## About Me
+
+I am committed to fostering a culture of continuous learning and growth within our team by providing mentorship, unwavering support, and insightful guidance to nurture individual talents and enhance collective capabilities. A
+s a Team Lead, Senior Software Engineer, and YouTuber, I leverage my experience and platform to inspire excellence, cultivate innovation, and drive unparalleled success in our software development endeavors.
+
+- 👨‍💼 **Current Title:** Team Lead
+- 👨‍💼 **Expertise:** Senior Software Engineer
+- 🎥 **YouTube:** [ChabysTech](https://www.youtube.com/@chabystech)
+
+Feel free to explore my YouTube channel for tech-related content and don't hesitate to reach out if you have any questions or collaboration ideas!
+
 
    <p align="left">
       <a href="https://homelabtim.com">
@@ -29,13 +39,7 @@ I'm a San Antonio-based IT Professional passionate about technology. I hold an A
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Unlocking the Power of Quick & Easy App Deployment on VPS with GitHub Action](https://ytcards.demolab.com/?id=KO9oMXkz0QA&title=Homer+the+best+homelab+dashboard&lang=en&timestamp=1693166572&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=481 "Homer the best homelab dashboard")]([https://www.youtube.com/watch?v=KO9oMXkz0QA](https://youtu.be/V2YYhGn3MGo?si=CTZarHTsxRUtkEsj))
-[![TwinGate the easiest VPN out there](https://ytcards.demolab.com/?id=gt5SK9_AVws&title=TwinGate+the+easiest+VPN+out+there&lang=en&timestamp=1692755373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=241 "TwinGate the easiest VPN out there")](https://www.youtube.com/watch?v=gt5SK9_AVws)
-[![Architecting Solutions on AWS](https://ytcards.demolab.com/?id=3F4fany-hrY&title=Architecting+Solutions+on+AWS&lang=en&timestamp=1692332895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21476 "Architecting Solutions on AWS")](https://www.youtube.com/watch?v=3F4fany-hrY)
-[![Exam Prep AWS Certified Solutions Architect](https://ytcards.demolab.com/?id=QCAAjqo9GLE&title=Exam+Prep+AWS+Certified+Solutions+Architect&lang=en&timestamp=1692328947&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15308 "Exam Prep AWS Certified Solutions Architect")](https://www.youtube.com/watch?v=QCAAjqo9GLE)
-[![Introduction to Designing Data Lakes on AWS](https://ytcards.demolab.com/?id=rBNURMGg81Q&title=Introduction+to+Designing+Data+Lakes+on+AWS&lang=en&timestamp=1692327022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14068 "Introduction to Designing Data Lakes on AWS")](https://www.youtube.com/watch?v=rBNURMGg81Q)
-[![AWS Cloud Technical Essentials](https://ytcards.demolab.com/?id=IldkI_R6plg&title=AWS+Cloud+Technical+Essentials&lang=en&timestamp=1692268925&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19796 "AWS Cloud Technical Essentials")](https://www.youtube.com/watch?v=IldkI_R6plg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V2YYhGn3MGo?si=CTZarHTsxRUtkEsj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/@chabytech?sub_confirmation=1">
