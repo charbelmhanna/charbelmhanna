@@ -16,33 +16,14 @@ Feel free to explore my YouTube channel for tech-related content and don't hesit
 
 ### Skills
 
-#### Frontend Development       |       #### Backend Development
-- AngularJS                               |       - Ruby on Rails
-- Vue.js                                       |       - Node.js
-- Bootstrap                                 |       - PHP
-- React                                       |       - PostgreSQL
-- HTML5                                      |       - MongoDB
-- CSS                                           |       - Docker
-- TypeScript                               |       - Kubernetes
-- Less                                           |       - Azure DevOps
-- NPM Dependencies                |       - LiquidBase
-- SEO                                           |       
+#### Frontend Development
+AngularJS, Vue.js, Laravel, Angular, React, SEO ...
 
-#### DevOps & Tools                 |       #### Other Skills
-- Docker                                     |       - Kibana
-- Kubernetes                             |       - Sidekiq
-- WSL environment                  |       - Miro
-- Git                                             |       - LaunchDarkly
-- GitHub Expertise                  |       - LocalizeAngular
-- Keycloak Authentication     |       - SMstudy Marketing Strategy
-- SSH Basics                              |       - Ethical Hacking
-- MongoDB Essentials            |       - Certified Security Analyst
-- ElasticSearch                         |       - Ethereum Development Course - Blockchain
-- Sidekiq                                      |       - Cyber Security Advanced (In Progress)
-- Jira Project Management     |       - Oracle (In Progress)
-- Miro                                         |       - MongoDB, NoSQL (In Progress)
-- LaunchDarkly                        |      
-- LocalizeAngular                   |       
+#### Backend Development
+Ruby on Rails, Node.js, PHP, PostgreSQL, MongoDB, Docker, VB.net, Java 
+
+#### DevOps & Tools
+Kubernetes, Azure DevOps, LiquidBase, Docker, WSL environment, Git, Keycloak Authentication, SSH, MongoDB, ElasticSearch, Sidekiq, Jira Project Management, Miro, LaunchDarkly, LocalizeAngular, Azure DevOps ...
 
 ---
 
