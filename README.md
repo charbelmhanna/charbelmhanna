@@ -1,4 +1,4 @@
-Sure! Here's the template with the skills aligned in two columns:
+Certainly! Here's the full template with the refined skills section:
 
 ```markdown
 # Charbel Mhanna
@@ -19,33 +19,64 @@ Feel free to explore my YouTube channel for tech-related content and don't hesit
 
 ### Skills
 
-#### Frontend Development       |       #### Backend Development
-- AngularJS                               |       - Ruby on Rails
-- Vue.js                                       |       - Node.js
-- Bootstrap                                 |       - PHP
-- React                                       |       - PostgreSQL
-- HTML5                                      |       - MongoDB
-- CSS                                           |       - Docker
-- TypeScript                               |       - Kubernetes
-- Less                                           |       - Azure DevOps
-- NPM Dependencies                |       - LiquidBase
-- SEO                                           |       
+#### Frontend Development
+- AngularJS
+- Vue.js
+- Bootstrap
+- React
+- HTML5
+- CSS
+- TypeScript
+- Less
+- NPM Dependencies
+- SEO
 
-#### DevOps & Tools                 |       #### Other Skills
-- Docker                                     |       - Kibana
-- Kubernetes                             |       - Sidekiq
-- WSL environment                  |       - Miro
-- Git                                             |       - LaunchDarkly
-- GitHub Expertise                  |       - LocalizeAngular
-- Keycloak Authentication     |       - SMstudy Marketing Strategy
-- SSH Basics                              |       - Ethical Hacking
-- MongoDB Essentials            |       - Certified Security Analyst
-- ElasticSearch                         |       - Ethereum Development Course - Blockchain
-- Sidekiq                                      |       - Cyber Security Advanced (In Progress)
-- Jira Project Management     |       - Oracle (In Progress)
-- Miro                                         |       - MongoDB, NoSQL (In Progress)
-- LaunchDarkly                        |      
-- LocalizeAngular                   |       
+#### Backend Development
+- Ruby on Rails
+- Node.js
+- PHP
+- PostgreSQL
+- MongoDB
+- Docker
+- Kubernetes
+- Azure DevOps
+- LiquidBase
+
+#### DevOps & Tools
+- Docker
+- Kubernetes
+- WSL environment
+- Git
+- GitHub Expertise
+- Keycloak Authentication
+- SSH Basics
+- MongoDB Essentials
+- ElasticSearch
+- Sidekiq
+- Jira Project Management
+- Miro
+- LaunchDarkly
+- LocalizeAngular
+- SEO by Moz
+- Azure DevOps
+- LiquidBase
+- Miro
+- LaunchDarkly
+- LocalizeAngular
+
+#### Other Skills
+- Kibana
+- Sidekiq
+- Miro
+- LaunchDarkly
+- LocalizeAngular
+- SMstudy Marketing Strategy
+- Ethical Hacking
+- Certified Security Analyst
+- Ethereum Development Course - Blockchain
+- Cyber Security Advanced (In Progress)
+- Oracle (In Progress)
+- MongoDB, NoSQL (In Progress)
 
 ---
 
@@ -63,4 +94,4 @@ Feel free to explore my YouTube channel for tech-related content and don't hesit
 [youtube]: https://youtube.com/@chabytech
 ```
 
-Now the skills are arranged in two columns for better readability. Adjustments can be made based on your preferences!
+Feel free to modify it further as needed!
