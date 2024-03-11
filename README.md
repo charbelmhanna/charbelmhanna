@@ -39,7 +39,7 @@ Feel free to explore my YouTube channel for tech-related content and don't hesit
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Unlocking the Power of Quick & Easy App Deployment on VPS with GitHub Action](https://i.ytimg.com/vi/-DKctD8_RGc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWoLITtm1i3QTqF48f7qlYuZP8mg)](https://youtu.be/V2YYhGn3MGo?si=CTZarHTsxRUtkEsj)
-[![Create an Electron App with Angular: Feel Like a Pro Developer](https://i.ytimg.com/vi/YrXSjosjSQ0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrJPZf0pJBshovcUK8m-Y-wRexzA)](https://www.youtube.com/watch?v=YrXSjosjSQ0&t=4s)
+[![Create an Electron App with Angular: Feel Like a Pro Developer]([https://i.ytimg.com/vi/YrXSjosjSQ0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrJPZf0pJBshovcUK8m-Y-wRexzA](https://i.ytimg.com/vi/YrXSjosjSQ0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6KtBxuhtpj_eX8sV0tk9eIzOvoQ))](https://www.youtube.com/watch?v=YrXSjosjSQ0&t=4s)
 
 
 <!-- END YOUTUBE-CARDS -->
